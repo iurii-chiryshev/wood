@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/folder.png</file>
+        <file>icons/eye.png</file>
+        <file>icons/draw_points.png</file>
+        <file>icons/draw_points_green.png</file>
+        <file>icons/draw_points_red.png</file>
+        <file>icons/wooden.png</file>
+        <file>icons/3d_model2.png</file>
+        <file>icons/control_play.png</file>
+        <file>icons/control_play_blue.png</file>
+        <file>icons/Cube-64.png</file>
+        <file>icons/polyline-64.png</file>
+        <file>icons/setting_tools.png</file>
+        <file>icons/Cone-64.png</file>
+        <file>icons/Cylinder-64.png</file>
+    </qresource>
+</RCC>

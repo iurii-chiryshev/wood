@@ -12,3 +12,6 @@
 
 
 __QT, Opencv, OpenSceneGraph (OSG), Point Cloud Library (PCL)__
+
+
+[forest_research](https://github.com/iurii-chiryshev/forest_research)
